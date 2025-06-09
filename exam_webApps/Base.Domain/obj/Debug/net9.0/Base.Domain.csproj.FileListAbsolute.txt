@@ -1,0 +1,15 @@
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/bin/Debug/net9.0/Base.Domain.deps.json
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/bin/Debug/net9.0/Base.Domain.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/bin/Debug/net9.0/Base.Domain.pdb
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/bin/Debug/net9.0/Base.Contracts.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/bin/Debug/net9.0/Base.Contracts.pdb
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/obj/Debug/net9.0/Base.Domain.csproj.AssemblyReference.cache
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/obj/Debug/net9.0/Base.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/obj/Debug/net9.0/Base.Domain.AssemblyInfoInputs.cache
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/obj/Debug/net9.0/Base.Domain.AssemblyInfo.cs
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/obj/Debug/net9.0/Base.Domain.csproj.CoreCompileInputs.cache
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/obj/Debug/net9.0/Base.Dom.FA02210C.Up2Date
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/obj/Debug/net9.0/Base.Domain.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/obj/Debug/net9.0/refint/Base.Domain.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/obj/Debug/net9.0/Base.Domain.pdb
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Domain/obj/Debug/net9.0/ref/Base.Domain.dll

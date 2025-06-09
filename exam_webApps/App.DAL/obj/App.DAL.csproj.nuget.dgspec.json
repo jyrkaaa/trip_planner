@@ -1,0 +1,551 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL/App.DAL.csproj": {}
+  },
+  "projects": {
+    "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.Contracts/App.DAL.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.Contracts/App.DAL.Contracts.csproj",
+        "projectName": "App.DAL.Contracts",
+        "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.Contracts/App.DAL.Contracts.csproj",
+        "packagesPath": "/Users/jurgenkuusik/.nuget/packages/",
+        "outputPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/jurgenkuusik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.DTO/App.DAL.DTO.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.DTO/App.DAL.DTO.csproj"
+              },
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.Domain.EF/App.Domain.EF.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.Domain.EF/App.Domain.EF.csproj"
+              },
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.Contracts/Base.DAL.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.DTO/App.DAL.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.DTO/App.DAL.DTO.csproj",
+        "projectName": "App.DAL.DTO",
+        "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.DTO/App.DAL.DTO.csproj",
+        "packagesPath": "/Users/jurgenkuusik/.nuget/packages/",
+        "outputPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.DTO/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/jurgenkuusik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/Base.Contracts.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/Base.Contracts.csproj"
+              },
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Domain/Base.Domain.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Domain/Base.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL/App.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL/App.DAL.csproj",
+        "projectName": "App.DAL",
+        "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL/App.DAL.csproj",
+        "packagesPath": "/Users/jurgenkuusik/.nuget/packages/",
+        "outputPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/jurgenkuusik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.Contracts/App.DAL.Contracts.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.Contracts/App.DAL.Contracts.csproj"
+              },
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.DTO/App.DAL.DTO.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.DAL.DTO/App.DAL.DTO.csproj"
+              },
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.EF/Base.DAL.EF.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.EF/Base.DAL.EF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.Domain.EF/App.Domain.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.Domain.EF/App.Domain.EF.csproj",
+        "projectName": "App.Domain.EF",
+        "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.Domain.EF/App.Domain.EF.csproj",
+        "packagesPath": "/Users/jurgenkuusik/.nuget/packages/",
+        "outputPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/App.Domain.EF/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/jurgenkuusik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/Base.Contracts.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/Base.Contracts.csproj"
+              },
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Domain/Base.Domain.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Domain/Base.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/Base.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/Base.Contracts.csproj",
+        "projectName": "Base.Contracts",
+        "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/Base.Contracts.csproj",
+        "packagesPath": "/Users/jurgenkuusik/.nuget/packages/",
+        "outputPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/jurgenkuusik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.Contracts/Base.DAL.Contracts.csproj",
+        "projectName": "Base.DAL.Contracts",
+        "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.Contracts/Base.DAL.Contracts.csproj",
+        "packagesPath": "/Users/jurgenkuusik/.nuget/packages/",
+        "outputPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.Contracts/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/jurgenkuusik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/Base.Contracts.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/Base.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.EF/Base.DAL.EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.EF/Base.DAL.EF.csproj",
+        "projectName": "Base.DAL.EF",
+        "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.EF/Base.DAL.EF.csproj",
+        "packagesPath": "/Users/jurgenkuusik/.nuget/packages/",
+        "outputPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.EF/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/jurgenkuusik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/Base.Contracts.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/Base.Contracts.csproj"
+              },
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.Contracts/Base.DAL.Contracts.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.DAL.Contracts/Base.DAL.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Domain/Base.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Domain/Base.Domain.csproj",
+        "projectName": "Base.Domain",
+        "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Domain/Base.Domain.csproj",
+        "packagesPath": "/Users/jurgenkuusik/.nuget/packages/",
+        "outputPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "/Users/jurgenkuusik/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/Base.Contracts.csproj": {
+                "projectPath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Contracts/Base.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        }
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

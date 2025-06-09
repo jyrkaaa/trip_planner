@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net9.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <GenerateDocumentationFile>true</GenerateDocumentationFile>
+        <NoWarn>$(NoWarn);1591</NoWarn>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\App.DAL.Contracts\App.DAL.Contracts.csproj" />
+      <ProjectReference Include="..\App.DAL\App.DAL.csproj" />
+      <ProjectReference Include="..\App.Domain.EF\App.Domain.EF.csproj" />
+      <ProjectReference Include="..\App.DTO\App.DTO.csproj" />
+      <ProjectReference Include="..\Base.Helpers\Base.Helpers.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Asp.Versioning.Mvc.ApiExplorer" Version="8.1.0" />
+      <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.3" />
+      <PackageReference Include="Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore" Version="9.0.3" />
+      <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="9.0.3" />
+      <PackageReference Include="Microsoft.AspNetCore.Mvc.TagHelpers" Version="2.3.0" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.3" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.3">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="9.0.3" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite.Core" Version="9.0.3" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.3" />
+      <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="9.0.3">
+        <PrivateAssets>all</PrivateAssets>
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.11.0" />
+      <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="9.0.0" />
+      <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.3" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="8.1.2" />
+      <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="8.1.2" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Areas\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <_ContentIncludedByDefault Remove="Views\Shared\Error.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Shared\_Layout.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Shared\_LoginPartial.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\Shared\_ValidationScriptsPartial.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\ExpenseCategory\Create.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\ExpenseCategory\Delete.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\ExpenseCategory\Details.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\ExpenseCategory\Edit.cshtml" />
+      <_ContentIncludedByDefault Remove="Views\ExpenseCategory\Index.cshtml" />
+    </ItemGroup>
+
+</Project>

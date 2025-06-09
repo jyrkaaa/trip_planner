@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "yTU4W1/7B8Q=",
+  "success": true,
+  "projectFilePath": "/Users/jurgenkuusik/Github/trip_planner/exam_webApps/Base.Helpers/Base.Helpers.csproj",
+  "expectedPackageFiles": [
+    "/Users/jurgenkuusik/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/jurgenkuusik/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/jurgenkuusik/.nuget/packages/microsoft.identitymodel.abstractions/8.11.0/microsoft.identitymodel.abstractions.8.11.0.nupkg.sha512",
+    "/Users/jurgenkuusik/.nuget/packages/microsoft.identitymodel.jsonwebtokens/8.11.0/microsoft.identitymodel.jsonwebtokens.8.11.0.nupkg.sha512",
+    "/Users/jurgenkuusik/.nuget/packages/microsoft.identitymodel.logging/8.11.0/microsoft.identitymodel.logging.8.11.0.nupkg.sha512",
+    "/Users/jurgenkuusik/.nuget/packages/microsoft.identitymodel.tokens/8.11.0/microsoft.identitymodel.tokens.8.11.0.nupkg.sha512",
+    "/Users/jurgenkuusik/.nuget/packages/system.identitymodel.tokens.jwt/8.11.0/system.identitymodel.tokens.jwt.8.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

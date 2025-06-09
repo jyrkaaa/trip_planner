@@ -1,0 +1,12 @@
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Helpers/bin/Debug/net9.0/Base.Helpers.deps.json
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Helpers/bin/Debug/net9.0/Base.Helpers.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Helpers/bin/Debug/net9.0/Base.Helpers.pdb
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Helpers/obj/Debug/net9.0/Base.Helpers.csproj.AssemblyReference.cache
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Helpers/obj/Debug/net9.0/Base.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Helpers/obj/Debug/net9.0/Base.Helpers.AssemblyInfoInputs.cache
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Helpers/obj/Debug/net9.0/Base.Helpers.AssemblyInfo.cs
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Helpers/obj/Debug/net9.0/Base.Helpers.csproj.CoreCompileInputs.cache
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Helpers/obj/Debug/net9.0/Base.Helpers.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Helpers/obj/Debug/net9.0/refint/Base.Helpers.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Helpers/obj/Debug/net9.0/Base.Helpers.pdb
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/Base.Helpers/obj/Debug/net9.0/ref/Base.Helpers.dll

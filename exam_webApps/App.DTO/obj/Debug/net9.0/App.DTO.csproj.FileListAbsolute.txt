@@ -1,0 +1,15 @@
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/bin/Debug/net9.0/App.DTO.deps.json
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/bin/Debug/net9.0/App.DTO.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/bin/Debug/net9.0/App.DTO.pdb
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/bin/Debug/net9.0/Base.Contracts.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/bin/Debug/net9.0/Base.Contracts.pdb
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/obj/Debug/net9.0/App.DTO.csproj.AssemblyReference.cache
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/obj/Debug/net9.0/App.DTO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/obj/Debug/net9.0/App.DTO.AssemblyInfoInputs.cache
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/obj/Debug/net9.0/App.DTO.AssemblyInfo.cs
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/obj/Debug/net9.0/App.DTO.csproj.CoreCompileInputs.cache
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/obj/Debug/net9.0/App.DTO.csproj.Up2Date
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/obj/Debug/net9.0/App.DTO.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/obj/Debug/net9.0/refint/App.DTO.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/obj/Debug/net9.0/App.DTO.pdb
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.DTO/obj/Debug/net9.0/ref/App.DTO.dll

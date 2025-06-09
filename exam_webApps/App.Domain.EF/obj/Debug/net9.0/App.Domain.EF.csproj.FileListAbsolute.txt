@@ -1,0 +1,17 @@
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/bin/Debug/net9.0/App.Domain.EF.deps.json
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/bin/Debug/net9.0/App.Domain.EF.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/bin/Debug/net9.0/App.Domain.EF.pdb
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/bin/Debug/net9.0/Base.Contracts.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/bin/Debug/net9.0/Base.Domain.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/bin/Debug/net9.0/Base.Contracts.pdb
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/bin/Debug/net9.0/Base.Domain.pdb
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/obj/Debug/net9.0/App.Domain.EF.csproj.AssemblyReference.cache
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/obj/Debug/net9.0/App.Domain.EF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/obj/Debug/net9.0/App.Domain.EF.AssemblyInfoInputs.cache
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/obj/Debug/net9.0/App.Domain.EF.AssemblyInfo.cs
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/obj/Debug/net9.0/App.Domain.EF.csproj.CoreCompileInputs.cache
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/obj/Debug/net9.0/App.Doma.8F0E0C30.Up2Date
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/obj/Debug/net9.0/App.Domain.EF.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/obj/Debug/net9.0/refint/App.Domain.EF.dll
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/obj/Debug/net9.0/App.Domain.EF.pdb
+/Users/jurgenkuusik/RiderProjects/icd0024-24-25-s/exam_proj_webApps/BE/exam_webApps/App.Domain.EF/obj/Debug/net9.0/ref/App.Domain.EF.dll
